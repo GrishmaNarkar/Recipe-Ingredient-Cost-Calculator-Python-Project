@@ -41,6 +41,9 @@ The **Recipe Ingredient Cost Calculator** is a Python-based tool that helps calc
    * **Bar Chart** for cost distribution
 
 ---
+###OUTPUT
+<img width="827" height="619" alt="Screenshot 2025-07-14 150040" src="https://github.com/user-attachments/assets/bc140d2e-b746-402f-bbcb-d11dae9feac1" />
+
 
 ### 🔍 Future Enhancements
 
@@ -48,6 +51,3 @@ The **Recipe Ingredient Cost Calculator** is a Python-based tool that helps calc
 * Export data to Excel or CSV
 * Implement a GUI for easier input
 
----
-
-Would you like me to **prepare a GitHub README file in proper Markdown format with badges and an example screenshot placeholder** so you can directly upload it to your repo? Or keep it minimal like this?
