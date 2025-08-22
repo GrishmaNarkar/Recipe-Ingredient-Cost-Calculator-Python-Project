@@ -41,7 +41,8 @@ The **Recipe Ingredient Cost Calculator** is a Python-based tool that helps calc
    * **Bar Chart** for cost distribution
 
 ---
-###OUTPUT
+## OUTPUT
+
 <img width="827" height="619" alt="Screenshot 2025-07-14 150040" src="https://github.com/user-attachments/assets/bc140d2e-b746-402f-bbcb-d11dae9feac1" />
 
 
